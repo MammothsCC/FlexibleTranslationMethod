@@ -24,7 +24,7 @@ namespace Franky
             }
             if (!translationFound)
             {
-                //internalexception
+                //exception
             }
             return value;
 
