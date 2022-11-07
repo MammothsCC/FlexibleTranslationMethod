@@ -3,6 +3,7 @@ Translates a value into a key if the value from the key contains this value in t
 
 Please use strings only.
 If you have several values that are to be translated into one key, separate them with a comma.
+You can also add an exception directly in the code.
 
 Example
 
